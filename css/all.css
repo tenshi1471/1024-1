@@ -18,4 +18,8 @@ h3 {
 .cdc {
     font-size: 3em;
     color:aqua;
+} 
+
+.cdc p {
+    color:red;
 }
